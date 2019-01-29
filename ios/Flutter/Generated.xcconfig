@@ -1,7 +1,7 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=/Users/renoldiboz/Downloads/flutter
-FLUTTER_APPLICATION_PATH=/Users/renoldiboz/Documents/projects/holcim
-FLUTTER_TARGET=/Users/renoldiboz/Documents/projects/holcim/lib/main.dart
+FLUTTER_APPLICATION_PATH=/Users/renoldiboz/Documents/projects/besic_mvvm_flutter
+FLUTTER_TARGET=/Users/renoldiboz/Documents/projects/besic_mvvm_flutter/lib/main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build/ios
 FLUTTER_FRAMEWORK_DIR=/Users/renoldiboz/Downloads/flutter/bin/cache/artifacts/engine/ios
